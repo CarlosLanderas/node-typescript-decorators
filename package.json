@@ -1,0 +1,24 @@
+{
+  "name": "node-typescript-decorators",
+  "version": "1.0.0",
+  "description": "typescript decorators pof",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "metadata",
+    "decorators"
+  ],
+  "author": "carlos landeras",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.14.0",
+    "reflect-metadata": "^0.1.8"
+  },
+  "devDependencies": {
+    "typings": "^1.3.3"
+  }
+}
