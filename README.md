@@ -2,6 +2,7 @@
 Small proof of concept with Typescript Metadata/Decorators in NodeJs
 
 Example of method accessor decorator => @log
+
 Example of class metadata decorator => @classMetadata 
 
 Commands: 
