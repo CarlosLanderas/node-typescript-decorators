@@ -9,8 +9,8 @@ import {log} from "./decorators/log-decorator";
    ]
 })
 export class Program  {
-    private httpService:HttpService;
-    constructor() {
+    
+    constructor(private httpService:HttpService) {
         this.httpService = new HttpService();
     }
     @log
